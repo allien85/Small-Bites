@@ -1,0 +1,17 @@
+{
+  "name": "waitrose-budget-meal-planner",
+  "version": "1.0.0",
+  "description": "Low-calorie low-dairy meal planner with budget and offer-aware grocery price refresh.",
+  "type": "module",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "refresh:prices": "node server/refresh-prices.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
