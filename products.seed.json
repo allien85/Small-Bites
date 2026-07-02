@@ -1,0 +1,138 @@
+{
+  "lastRefresh": "Seed prices included with app. Replace by running price refresh or editing data/products.live.json.",
+  "products": {
+    "chicken": {
+      "name": "Chicken breast fillets or thighs value pack",
+      "price": 9.0,
+      "offer": "Prefer value pack/current offer",
+      "pack": "1 pack",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=chicken%20thighs%20breast"
+    },
+    "eggs": {
+      "name": "Essential Free Range Eggs 6s",
+      "price": 1.3,
+      "offer": "Check current lower price/offer",
+      "pack": "1 box",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=essential%20eggs"
+    },
+    "peppers": {
+      "name": "Essential Mixed Peppers 3s",
+      "price": 1.8,
+      "offer": "Check loose vs bagged",
+      "pack": "1 bag",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=essential%20mixed%20peppers"
+    },
+    "tomatoes": {
+      "name": "Essential Chopped Tomatoes 4x400g",
+      "price": 2.2,
+      "offer": "Multipack often best value",
+      "pack": "1 multipack",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=essential%20chopped%20tomatoes"
+    },
+    "chickpeas": {
+      "name": "Essential Chickpeas in Water",
+      "price": 0.55,
+      "offer": "Cupboard staple",
+      "pack": "1 tin",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=essential%20chickpeas"
+    },
+    "courgettes": {
+      "name": "Courgettes",
+      "price": 0.6,
+      "offer": "Check loose vs pack",
+      "pack": "each",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=courgettes"
+    },
+    "spinach": {
+      "name": "Essential Spinach",
+      "price": 1.1,
+      "offer": "Check current price cut",
+      "pack": "1 bag",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=essential%20spinach"
+    },
+    "rice": {
+      "name": "Essential Whole Grain Rice",
+      "price": 2.0,
+      "offer": "Use across meals",
+      "pack": "1 bag",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=essential%20wholegrain%20rice"
+    },
+    "cucumber": {
+      "name": "Cucumber",
+      "price": 1.1,
+      "offer": "Check loose price",
+      "pack": "each",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=cucumber"
+    },
+    "onions": {
+      "name": "Onions",
+      "price": 0.16,
+      "offer": "Loose often cheapest",
+      "pack": "each",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=onions"
+    },
+    "tuna": {
+      "name": "Tuna chunks in spring water multipack",
+      "price": 4.0,
+      "offer": "Use if on offer, otherwise swap",
+      "pack": "1 multipack",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=tuna%20spring%20water"
+    },
+    "lemon": {
+      "name": "Lemons",
+      "price": 0.35,
+      "offer": "Loose estimate",
+      "pack": "each",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=lemons"
+    },
+    "herbs": {
+      "name": "Fresh parsley/coriander",
+      "price": 0.95,
+      "offer": "Optional: swap for dried herbs",
+      "pack": "1 bunch",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=fresh%20herbs"
+    },
+    "wraps": {
+      "name": "Wholemeal wraps",
+      "price": 1.5,
+      "offer": "Check own-brand vs branded offer",
+      "pack": "1 pack",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=wholemeal%20wraps"
+    },
+    "potatoes": {
+      "name": "Baby potatoes",
+      "price": 1.65,
+      "offer": "Check seasonal bags",
+      "pack": "1 bag",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=baby%20potatoes"
+    },
+    "salad": {
+      "name": "Essential salad leaves",
+      "price": 1.2,
+      "offer": "Check bags vs hearts/loose",
+      "pack": "1 bag",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=essential%20salad%20leaves"
+    },
+    "lentils": {
+      "name": "Red lentils",
+      "price": 1.8,
+      "offer": "Cupboard staple, good for batch lunches",
+      "pack": "1 bag",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=red%20lentils"
+    },
+    "couscous": {
+      "name": "Couscous",
+      "price": 1.25,
+      "offer": "Quick lunch base",
+      "pack": "1 pack",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=couscous"
+    },
+    "tofu": {
+      "name": "Firm tofu",
+      "price": 2.25,
+      "offer": "Check current offer or own-brand swap",
+      "pack": "1 pack",
+      "url": "https://www.waitrose.com/ecom/shop/search?&searchTerm=firm%20tofu"
+    }
+  }
+}
